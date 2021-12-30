@@ -1,0 +1,6 @@
+v 1.0
+d eiwb. Generate a variable for the ecological intensity of well-being.
+d Ryan P. Thombs, Boston College.
+f eiwb.ado
+f eiwb.sthlp
+f example.dta
