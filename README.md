@@ -40,7 +40,7 @@ where the environmental variable **must be specified first** in the variable lis
 
 `eiwb` can be installed by typing the following in Stata:
 
-     net install eiwb, from(https://github.com/rthombs/eiwb)
+     net install eiwb, from("https://raw.githubusercontent.com/rthombs/eiwb/main")
 
 # Author
 
