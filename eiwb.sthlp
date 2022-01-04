@@ -35,7 +35,7 @@ Following the generation of the variable, the coefficients of variation and the 
 
 {title:Example}
 
-An example dataset of annually U.S. state-level CO_2 emissions per capita and health-adjusted life expectancy from 1999 to 2017 is available at {browse "https://github.com/rthombs/eiwb/blob/main/example.dta":here}.
+An example dataset of annual U.S. state-level CO_2 emissions per capita and health-adjusted life expectancy from 1999 to 2017 is available at {browse "https://github.com/rthombs/eiwb/blob/main/example.dta":here}.
 
 {p 4}To generate the eiwb (make sure to specify the environmental variable first): {p_end}
 
